@@ -1,0 +1,15 @@
+D:\22.11.4825_Pemograman\Pemograman Minggu 12\Praktikum Minggu 12\Praktikum Minggu 12\bin\Debug\net6.0\Praktikum Minggu 12.exe
+D:\22.11.4825_Pemograman\Pemograman Minggu 12\Praktikum Minggu 12\Praktikum Minggu 12\bin\Debug\net6.0\Praktikum Minggu 12.deps.json
+D:\22.11.4825_Pemograman\Pemograman Minggu 12\Praktikum Minggu 12\Praktikum Minggu 12\bin\Debug\net6.0\Praktikum Minggu 12.runtimeconfig.json
+D:\22.11.4825_Pemograman\Pemograman Minggu 12\Praktikum Minggu 12\Praktikum Minggu 12\bin\Debug\net6.0\Praktikum Minggu 12.dll
+D:\22.11.4825_Pemograman\Pemograman Minggu 12\Praktikum Minggu 12\Praktikum Minggu 12\bin\Debug\net6.0\Praktikum Minggu 12.pdb
+D:\22.11.4825_Pemograman\Pemograman Minggu 12\Praktikum Minggu 12\Praktikum Minggu 12\obj\Debug\net6.0\Praktikum Minggu 12.csproj.AssemblyReference.cache
+D:\22.11.4825_Pemograman\Pemograman Minggu 12\Praktikum Minggu 12\Praktikum Minggu 12\obj\Debug\net6.0\Praktikum Minggu 12.GeneratedMSBuildEditorConfig.editorconfig
+D:\22.11.4825_Pemograman\Pemograman Minggu 12\Praktikum Minggu 12\Praktikum Minggu 12\obj\Debug\net6.0\Praktikum Minggu 12.AssemblyInfoInputs.cache
+D:\22.11.4825_Pemograman\Pemograman Minggu 12\Praktikum Minggu 12\Praktikum Minggu 12\obj\Debug\net6.0\Praktikum Minggu 12.AssemblyInfo.cs
+D:\22.11.4825_Pemograman\Pemograman Minggu 12\Praktikum Minggu 12\Praktikum Minggu 12\obj\Debug\net6.0\Praktikum Minggu 12.csproj.CoreCompileInputs.cache
+D:\22.11.4825_Pemograman\Pemograman Minggu 12\Praktikum Minggu 12\Praktikum Minggu 12\obj\Debug\net6.0\Praktikum Minggu 12.dll
+D:\22.11.4825_Pemograman\Pemograman Minggu 12\Praktikum Minggu 12\Praktikum Minggu 12\obj\Debug\net6.0\refint\Praktikum Minggu 12.dll
+D:\22.11.4825_Pemograman\Pemograman Minggu 12\Praktikum Minggu 12\Praktikum Minggu 12\obj\Debug\net6.0\Praktikum Minggu 12.pdb
+D:\22.11.4825_Pemograman\Pemograman Minggu 12\Praktikum Minggu 12\Praktikum Minggu 12\obj\Debug\net6.0\Praktikum Minggu 12.genruntimeconfig.cache
+D:\22.11.4825_Pemograman\Pemograman Minggu 12\Praktikum Minggu 12\Praktikum Minggu 12\obj\Debug\net6.0\ref\Praktikum Minggu 12.dll
